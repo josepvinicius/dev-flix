@@ -1,0 +1,14 @@
+.headerFlix{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    padding: 10px 0;
+    width: 100%;
+
+}
+
+.title{
+    color: #62abff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
